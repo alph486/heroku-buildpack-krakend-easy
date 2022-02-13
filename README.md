@@ -4,7 +4,7 @@ A buildpack for Heroku for running [KrakenD](https://www.krakend.io/).
 
 ## Using the Heroku Node.js buildpack
 
-    heroku buildpacks:set https://github.com/InterfloraDanmark/heroku-buildpack-krakend
+    heroku buildpacks:set https://github.com/atirson/heroku-buildpack-krakend-easy
 
 ## Configuration
 A default `Procfile` will be created automatically if it does not exist with the following content:
